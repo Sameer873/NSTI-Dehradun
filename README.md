@@ -1,2 +1,1 @@
-# NSTI-Dehradun
-Welcome to NSTI Dehradun.
+# Nsti-Dehradun

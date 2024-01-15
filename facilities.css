@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    color: brown;
+    
+}
+.menu{
+    text-align: center;
+}
+.raja{
+    background:red;
+    color:#fff;
+    display: flex;
+        align-items:right;
+        justify-content:right;
+        position: sticky;
+        top: 0;
+        cursor: pointer;
+    
+}
